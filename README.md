@@ -1,3 +1,3 @@
-# udemy-github-actions
+# github-actions-test
 
 Git の練習
